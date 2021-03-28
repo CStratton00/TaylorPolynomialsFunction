@@ -16,7 +16,6 @@ Implementation approach:
 """
 
 # Packages used: time, numpy, matplotlib, scipy
-import time                         # import time to use for performance analysis
 import numpy as np                  # import numpy for array space
 import matplotlib.pyplot as plt     # import matplotlib for graphing functions
 from scipy.special import factorial as fact
